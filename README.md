@@ -12,10 +12,11 @@
 
 ## Definição do Trabalho
 
+Para a realização desse trabalho optamos por resolver questões do LeetCode.
 
 ## Linguagem utilizada
 
-
+Utilizamos a linguagem python para a resolução das questões.
 
 ## Screenshots
 
