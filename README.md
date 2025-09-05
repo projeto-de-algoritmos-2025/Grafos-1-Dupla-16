@@ -18,6 +18,14 @@ Para a realização desse trabalho optamos por resolver questões do LeetCode.
 
 Utilizamos a linguagem python para a resolução das questões.
 
+## Questões
+
+| Questão | Nível  | Vídeo Explicando |
+|---------|--------|------------------|
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=breadth-first-search) | Médio | [Vídeo]() |
+
+
+
 ## Screenshots
 
 ### Exercício 01 
