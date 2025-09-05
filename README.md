@@ -1,1 +1,30 @@
-# Grafos-1-Dupla-16
+# Trabalho 1 - Grafos 1
+
+**Número do trabalho:** 1 <br>
+**Conteúdo da Dsiciplina: Grafos**
+
+## Alunos
+
+| Matrícula |        Nome Completo       |
+|:---------:|:-------------:|
+| 222026715 | Túlio Augusto Celeri |
+| 222026377 | Pedro Ferreira Gondim  |
+
+## Definição do Trabalho
+
+
+## Linguagem utilizada
+
+
+
+## Screenshots
+
+### Exercício 01 
+
+### Exercício 02 
+
+### Exercício 03 
+
+### Exercício 04
+
+## Vídeo de apresentação do Trabalho 1
