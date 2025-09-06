@@ -23,6 +23,7 @@ Utilizamos a linguagem python para a resolução das questões.
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=breadth-first-search) | Médio | [Vídeo]() |
+| [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/?envType=problem-list-v2&envId=topological-sort) | Difícil | [Vídeo]() |
 
 
 
