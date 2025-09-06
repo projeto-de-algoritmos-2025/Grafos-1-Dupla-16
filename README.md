@@ -24,6 +24,8 @@ Utilizamos a linguagem python para a resolução das questões.
 |---------|--------|------------------|
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=breadth-first-search) | Médio | [Vídeo]() |
 | [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/?envType=problem-list-v2&envId=topological-sort) | Difícil | [Vídeo]() |
+| [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo]() |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
 
 
 
