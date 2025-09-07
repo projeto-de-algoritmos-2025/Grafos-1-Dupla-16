@@ -27,16 +27,3 @@ Utilizamos a linguagem python para a resolução das questões.
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo]() |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
 
-
-
-## Screenshots
-
-### Exercício 01 
-
-### Exercício 02 
-
-### Exercício 03 
-
-### Exercício 04
-
-## Vídeo de apresentação do Trabalho 1
